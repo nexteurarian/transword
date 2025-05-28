@@ -210,13 +210,13 @@ export default function Puzzle3() {
         {/* Essay Section */}
         <Card>
           <CardHeader>
-            <CardTitle>Essay</CardTitle>
+            <CardTitle>Literary Text</CardTitle>
           </CardHeader>
           <CardContent>
             <Textarea
               value={essay}
               onChange={(e) => setEssay(e.target.value)}
-              placeholder="Write your essay here..."
+              placeholder="Craft your literary text here..."
               className="min-h-[200px] w-full"
             />
           </CardContent>
