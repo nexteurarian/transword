@@ -16,6 +16,7 @@ _treansword_ is a crossword web app I created, which was used as an activity dur
 - **Auth & Backend:** Supabase integration
 
 ---
+
 _preview of the web app!_
 
-![](https://i.ibb.co/JjV08MLm/Screenshot-2025-05-30-204435.png)
+![](https://i.ibb.co/0VqnF9WV/Screenshot-2025-05-30-204758.png)
