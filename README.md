@@ -14,3 +14,6 @@ _treansword_ is a crossword web app I created, which was used as an activity dur
 - **Component System:** Shadcn/ui, Radix UI, Lucide Icons
 - **State & Forms:** React Hook Form, Zod
 - **Auth & Backend:** Supabase integration
+
+## License
+MIT ✨
